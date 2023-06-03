@@ -1,0 +1,8 @@
+h2{
+    text-align: center;
+    text-transform: capitalize;
+    border:2px teal;
+    border-radius: 20px;
+    color: dodgerblue;
+    background-color: bisque;
+}
